@@ -1,6 +1,6 @@
-var a=prompt("Enter UserName");
- var b=prompt("Enter date of birth");
-  	if(a== "Caka" && b=="12/05")
+var a=prompt("Ketik: Caka");
+ var b=prompt("Ketik: Ali ganteng");
+  	if(a== "Caka" && b=="Ali ganteng")
   	{
   	    window.location.href="start.html";
   	}
